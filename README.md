@@ -10,7 +10,7 @@ This project implements the technical assessment requirements:
 - POST /api/schedule: schedule a message to be inserted into DB at specific day & time.
 
 ## Setup
-1. Use `.env` file with my `MONGO_URI`, I have used mongidb atlas.
+1. Use `.env` file with my `MONGO_URI`, I have used mongodb atlas.
 2. `npm install`
 3. Run `npm run dev` (requires nodemon) or `npm start`
 
